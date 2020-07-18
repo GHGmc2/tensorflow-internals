@@ -20,7 +20,7 @@ $ sudo apt-get install texlive-full
 
 Download [MacTeX.pkg](http://tug.org/mactex/), and install it.
 
-- Windows
+- Windowns
       
 Download [TeX Live](http://tug.org/texlive/), and install it (see [insruction](https://liam.page/texlive)).
 
